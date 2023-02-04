@@ -1,0 +1,22 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# env
+.env
+
+# virtualenv
+.venv/
+
+# IDEs
+.idea/
+
+# jupyter-related files
+.jupyter/
+
+# .DS_Store files
+.DS_Store
